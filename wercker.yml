@@ -6,3 +6,4 @@ build:
         - script:
             name: Hello
             code: echo "Hello, GitHub!"
+            code: echo "It's Friday! It's 14:19!!"
